@@ -1,4 +1,5 @@
 使用opencore0.6.8构建
+![](https://github.com/xcdd/HP-EliteDesk-880-G3-TWR-hackintosh/blob/main/picture/%E6%88%AA%E5%B1%8F2021-04-28%20%E4%B8%8B%E5%8D%888.17.21.png)
 
 **U** 盘安装的同学，请使用 ****USB2.0**** 完成安装，别着急联网，先用 ****OpenCore Configurator**** （或者别的工具也行）刷新三码，不刷新就联网的后果自负 ...
 
@@ -8,14 +9,14 @@
 
 请参考惠普官方信息：https://www8.hp.com/h20195/v2/getpdf.aspx/4AA6-9266EEAP.pdf
 
-| CPU | i7-7700 |
-| 内存 | 8+8=16GB |
-| 主硬盘 | HP SSD EX900 256GB |
-| 核心显卡 | HD630 |
-| 独立显卡 | 无 |
-| 有线网卡 | Intel® I219LM Gigabit Network Connection |
-| 声卡 | 官网写的是ALC221，但我这台是CX20632 （Layoutid=23） |
-| 备注 | 已加入核显PCI信息，使用非HD630/独显的请自行删除掉 |
+- CPU：i7-7700
+- 内存：8+8=16GB
+- 主硬盘：HP SSD EX900 256GB
+- 核心显卡：HD630
+- 独立显卡：无
+- 有线网卡：Intel® I219LM Gigabit Network Connection
+- 声卡：官网写的是ALC221，但我这台是CX20632 （Layoutid=23）
+- 备注：已加入核显PCI信息，使用非HD630/独显的请自行删除掉
 
 ![](https://github.com/xcdd/HP-EliteDesk-880-G3-TWR-hackintosh/blob/main/picture/%E6%88%AA%E5%B1%8F2021-04-28%20%E4%B8%8B%E5%8D%888.15.53.png)
 
